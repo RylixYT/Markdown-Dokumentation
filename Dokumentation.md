@@ -99,10 +99,11 @@ Das ist 1 Satz mit einer Fußnote.[^1]
 
 ## Hochgestellte und Tiefgestellte Zeichen
 
-Hochgestellt: 2^3^ = 8
-Tiefgestellt: H~2~O
+Hochgestellt: 2<sup>3</sup> = 8
+Tiefgestellt: H<sub>2</sub>O
 
 ## Deaktivierte URL-Verknüpfungen
 
-Um eine URL zu deaktivieren, verwenden Sie einfach `<URL>`.
-```
+BSP: `<URL>`
+
+`https://google.at`
